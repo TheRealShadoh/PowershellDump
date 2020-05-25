@@ -1,4 +1,4 @@
-﻿$Path = "\\share"
+﻿$Path = "\\share"  #Set path of share8
 Write-Host "Enter the full username, "
 $Username = Read-Host "Enter Full Username"
 

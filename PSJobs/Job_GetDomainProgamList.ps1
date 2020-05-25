@@ -1,11 +1,9 @@
-﻿#  .DESCRIPTION
+#  .DESCRIPTION
 #
 # Multi-thread tool
 #
-# Use to run scripts on remote clients with SYSTEM access,
-# two-part script, you will need to create another script that will run locally on your target.
-# This allows you to reach all of your clients quickly, and allow the individual clients to do the heavy lifting.
-# Any logging beyond ping/did the task schedule will need to be written into your target script
+# Pulls all computers from the current domain, then accesses their registries to determine all
+# programs that are installed on the computer, pulls from Software\Microsoft\Windows\CurrentVersion\Uninstall
 #
 # Object details for the final variable of $outcome
 #
@@ -14,22 +12,24 @@
 # Task_Status - Did the task schedule
 # Error - Recorded Error Message
 # Success - True or False value to track and record numbers from push
+# Data - Stores all of the program information
 #
-# Use $outcome to view results
-#
+# Use $outcome to log which machines fail/succeed
+# USe $outcome.data to view all of the installed programs
 #
 
+$nl = [Environment]::newline
 
 #Timer
 $sw = new-object system.diagnostics.stopwatch
+$sw.reset()
 $sw.Start()
 
-# Target List
-# Change the value between "    "   to match your computer list
-$Comps = "localhost"#Get-Content "C:\Users\1394844760A\Desktop\Scripts\SCC.txt"
+#Target List
+$Comps = Get-ADComputer -Filter *
+$comps = $comps.name
 
 #Script to be pushed to machines
-#Setup in a cookie cutter to call an external script that does the job.
 
 
 $scriptblock = {
@@ -37,17 +37,31 @@ $scriptblock = {
     #TRY to accomplish tasks
     TRY {
         #Check if machine ONLINE if OFFLINE do nothing
-        IF (Test-Connection $args -Quiet -Count 1 -buffersize 16) {
+        IF (Test-Connection $args[0] -Quiet -Count 1 -buffersize 16) {
             #ONLINE
             $ping = "Online"
             #
             # EDIT BELOW THIS LINE
             #
-            # Set the absoulute path of your target script below within the $Task variable
-            # Example: -File 'ENTER PATH HERE'
-            $Task = schtasks.exe /CREATE /TN "Patch_Task" /S $args /SC WEEKLY /D SAT /ST 23:59 /RL HIGHEST /RU SYSTEM /TR "powershell.exe -ExecutionPolicy Unrestricted -WindowStyle Hidden -noprofile -File 'ENTER PATH HERE'" /F
-            $run = schtasks.exe /RUN /TN "Patch_Task" /S $args
-            $delete = schtasks.exe /DELETE /TN "Patch_Task" /s  $args /F
+            $success = "True"
+            $RegPath = "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
+            $Reg = [microsoft.win32.registrykey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+            $RegKey = $Reg.OpenSubKey($RegPath)
+            $SubKeys = $RegKey.GetSubKeyNames()
+            $Array = @()
+            ForEach ($Key in ($SubKeys)) {
+                $ThisKey = $RegPath + "\\" + $Key
+                $ThisSubKey = $Reg.OpenSubKey($ThisKey)
+                $Program_Name = $thisSubKey.GetValue("DisplayName")
+                $Program_Version = $ThisSubKey.GetValue("DisplayVersion")
+                $InternalObj = [PSCustomObject]@{
+                    Computer = $args[0]
+                    Program  = $Program_Name
+                    Version  = $Program_Version
+                }
+                $InternalObj = $InternalObj | where { $_.Program.Length -gt "0" }
+                $Array += $InternalObj
+            }
             #
             # EDIT ABOVE THIS LINE
             #
@@ -65,11 +79,11 @@ $scriptblock = {
 
     #Information to be passed to the console and collected
     $RemoteObj = [PSCustomObject]@{
-        Target_ID   = $args[0]
-        Ping        = $ping
-        Task_Status = $run
-        Error       = $stop
-        Success     = $success
+        Target_ID = $args[0]
+        Ping      = $ping
+        Error     = $stop
+        Success   = $success
+        Data      = $Array
     }
     #Print to console
     $RemoteObj
@@ -141,6 +155,7 @@ $nl
 Write-Host "To manipulate results within PoSH use the OUTCOME variable -- Otherwise check your C: drive for the output file" -ForegroundColor Cyan
 
 $Date = Get-Date -UFormat "%d-%b-%g %H%M"
-$outcome | Export-Csv -append "C:\Patcher_$date.csv"
+$outcome | Export-Csv -append "C:\ProgramList_$date.csv"
+
 
 
