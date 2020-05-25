@@ -1,0 +1,12 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>4df91299-763c-49ca-824b-34a87caab4fe</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MissingComputers_psf">MissingComputers.psf</File>
+    <File Build="0" ReferenceFunction="Show-Mainform_psf">Mainform.psf</File>
+  </Files>
+</Project>

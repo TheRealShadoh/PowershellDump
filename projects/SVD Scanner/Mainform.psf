@@ -1,0 +1,929 @@
+﻿<File version="3.1">
+  <FileID>0876bef3-066d-43f4-9049-0d5486f4d83d</FileID>
+  <Preview>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
+u/NA3v0x5vW/dmzbkqSxKXuQ3n0zfItq//vfqOn7P1XzT3+izuRTum2mqf3Vf1Lr1nQzf4/PGLhl
+LxT0QCPtpea9v6Hav/lLdew44BwMOJC8Q/0XyzRx/65zMaBbgTa1/vBbqv27v1XLim0am7yn8Um2
+/l82F0IAsHfEK79+WQkJiYrZkajKxk5T0Ic1NDRkAnbYCQV+M+32r52XoeFhDUYi8g54TPH3aiji
+0+6tG5V9o16D4aDCpt2waRMKBuZtICAAIH5e2t/8786cWjc+OanxaXvan2Yu0GNfs8+dqwOa1+wp
+eA/vPx5+e+aqeXYX+/iEcxqfc5rcmN2zcNfpI3hsx5OfAJyfF2w/tl/b/p5p/+RCROb1qcfvbdo8
+uRCQKeTOkff2jAVTqCemp5zjE+zW+PiEnX7zP/rIPLbD79hAYPp/fO7/+B1TzJ++0t9T8+oUens9
+cdveTrOZBjt9TlvbxoQAe/GfcXsao+3fToOZr2eWG7reeR8AvD4NB3q0aNF3lFlQq8rCqyopq1Je
+1kklJycp60quzmRmqq23T+dOntT1G4VK2R2nzKyr8gfDjj1NZfrhP/8Prd11RGO3RnT1vBk3aY8K
+SupMuAjM/b4vWAIA4uft7EV25rrQjim0H3ltrudPPba70wNHtqn0i1/V6J3HRXT29Q+3n33+i4bN
+1ebp4Y5PD3uqzdPOtn36+dOvzw6bazi+NC6EPQDhcETXr2RqxYq39eaS91Tf3qfK4jxlpqdq0dsr
+tWXbFh04fEw7t2zQ22+9qbg9+7Tkp6/qYlGjbt+eUsaezdqwLVbvvLlUNQ2NeuUf/0Hr4pJ1o6Le
+2Qsw13u+aAkAiPNcu6U+0tko36V8jZktbC6igwvNhbAHwNPTrvzCQg2O3lL6rve0fPN2JSckKO3Q
+AX3nO0t1s+SGvvutv1fmxWta9/Zrit9/TNvWr9XVshaNh7q17I0fa/+J83pv8avaefi8qosKtGX1
+m1q5dbcGR0blnet9X7AEAMT5rt2VbnfpP7K/wT+1Gx5xgTj/A4BXIb9HR/bFalPcHsXGxKm4rFS7
+42O1JylJK9+LV5+vTxtWLtPNFo+q8s4pdnus4pIPqcs3qKabOdq2Y59u3XskT0upNm/drsNHjypx
++3YdO5unUCQ89/u+YAkA80h7y0z7d8ys8BeKH56Hl92F+BnOZ59eprhwnfcBwOr1KRKJqKuzXX2e
+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
+/z/MT5a2ipA9DwAAAABJRU5ErkJggg==</Preview>
+  <Form>PQih1PNKDCgAACODCAAAAAAABADVWltP6zgQfl9p/4OV5x7IrbRdQSUoy57VgS2iPZxH5CamZHHjynGB7q/f
+sZPSK3QcaBVEVZHWk/lm/M3Fkx53B/+ySGXt338j5Di/IGo6ZidOb5opNjr4laSxeM4OLoQc5e81
+sumrGrllMktEehIeuPqvRjoTriaSnaRsoiTlNXI9GfAk+sGmffHI0pNBo0HrUf3IawUhc5sth6R0
+BJqvaJLqezokekh4LGGp0xGpkoJnjkEKWK+lGDOppoXM6USJXkQ5O09GLNU4YKkHIHz3+HC2dpvs
+lYiZ074AVVtlOjxhqeol/4GAF9QbNdLw/a1SV1QOk9RpN2ukeG0V+QfenfbMJVuX9xSV6lpkiQIX
+OO0OgGSyF0nG0q2yffainHbv9pyAN9KUyXWJP5/ghsXyS0HjObI7fXl8aBbMVm/n09lEKZHunFED
+o+Y6SYd9lqn3eLXulUsR0dyZvhvUyFGjseaWtze6XiPFCyGUb/UyVoRYQUIftAQYNX06+DuN2QsY
+FGCWG1ZoPAQJ6GfGOmI0Bq8NONPiNwz0SbiD0+7LCcPd4jbJJpT31JSzMxo9dgQX8m35RWJCbEaP
+q468M5+uEPQwZ2hF+dpjVEYPNyyDu2RlSRuEkJvqzdY+SLsEGM/csARz13Ptm/nMgCJ4VJWi75JL
+P4fD2qQz8bJzEivQMxAvflnmekAL/8iCt+9U1Q1CYFXCk5ShNzVn+swqhMANo3E35VO0hjwewkYI
+oRdiInYhIDxkQJzyZPjaGKwX+IpnROhLLpPyFVxTKgxtOFU+FxZQ8Wmw6dunwfXm9s00CHgIElC1
+MmDhyC9YwPtSwHKWPQihtPNKsrbu+XvrO1cgo9nrB4E1ez1UijPstYdVKQ6vwP8cKl/SAeM7ZzLX
+WrQnOVMsdl07EpujtSEI0uf68A2HyiSSIhP3ivRompEe7Nt9jXj1MSZ7gQdYsVFeCyIHjMekyYV4
+c3W8BaFdvLkm3jCa8nhbdSw+1HxQFaLq/TzUMC1RHmqvkP4g7iEGlXWkVZrqlu2qNcHnNPvmBQD2
+qIVpJRdaXNe0uJY8w+jIzagD930M9RfIhUr7hlxoMHsg1TlV9C+ZxLcJe945t2JQNgRlT6DMs6QY
+5+IZ/CH7oivBB5DbJiM93kQyLl//HQ4jYMx3lgwfzNwyH3bO+GufIK2OZiX6kSWPoenbDLSSFird
+zQm8zvdK5yhbApXPUUFz4wT98xMUfof1TB81t5xvL+bme0g4+z0q0yd2Wnpq6Ln6kYZ1D1TyqGyg
+4vufpimbdhSwOCgDGoKCU6kjRu7EL3hI1uf7czGiQKGPTHVcmzbqQ1OdHOxO5zr4g7EZ66ARVYux
+r778knPtoPxjREitYcsmtVpNtpfm1JhKOUur2KZuztMNj6+r3Df1wZ1MdaGDHo1oxsZUUstR8gda
+KfP0uO7bPIgr20xtshPPg8aR9QkQM5osBnkGGhGSGHDfCnQsJsp8s5O6+wUqYO4XOzJ26CRj2S3l
+SVxw7ILyzI6Vpnbu6enwq5k7rZ2oDDavnWhElaudOfKttXP5Yjv1dSN5kegfUlEuhjsPgQzU3YO6
+2KjzXn/ftWi6htMF21fW3uWfL9pua2x3zNI9Ggv7m24ydoUnGlEeOSsC7/8ga+amFaH33TT7N2v/
+D2MHrT4MKAAA</Form>
+  <Code><![CDATA[
+$MainForm_Load={
+	#TODO: Initialize Form Controls here
+	$nl = [Environment]::NewLine
+	$textbox2.Text = "SVD Scanner $nl Must be run as the user with desired credentials."
+}
+$textbox3.Text = "$($Env:COMPUTERNAME)"
+
+#region Control Helper Functions
+function Update-DataGridView
+{
+	<#
+	.SYNOPSIS
+		This functions helps you load items into a DataGridView.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the DataGridView control.
+
+	.PARAMETER  DataGridView
+		The DataGridView control you want to add items to.
+
+	.PARAMETER  Item
+		The object or objects you wish to load into the DataGridView's items collection.
+	
+	.PARAMETER  DataMember
+		Sets the name of the list or table in the data source for which the DataGridView is displaying data.
+
+	.PARAMETER AutoSizeColumns
+	    Resizes DataGridView control's columns after loading the items.
+	#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory = $true)]
+		[System.Windows.Forms.DataGridView]$DataGridView,
+		[ValidateNotNull()]
+		[Parameter(Mandatory = $true)]
+		$Item,
+		[Parameter(Mandatory = $false)]
+		[string]$DataMember,
+		[System.Windows.Forms.DataGridViewAutoSizeColumnMode]$AutoSizeColumns = 'None'
+	)
+	$DataGridView.SuspendLayout()
+	$DataGridView.DataMember = $DataMember
+	
+	if ($Item -is [System.Data.DataSet] -and $Item.Tables.Count -gt 0)
+	{
+		$DataGridView.DataSource = $Item.Tables[0]
+	}
+	elseif ($Item -is [System.ComponentModel.IListSource]`
+		-or $Item -is [System.ComponentModel.IBindingList] -or $Item -is [System.ComponentModel.IBindingListView])
+	{
+		$DataGridView.DataSource = $Item
+	}
+	else
+	{
+		$array = New-Object System.Collections.ArrayList
+		
+		if ($Item -is [System.Collections.IList])
+		{
+			$array.AddRange($Item)
+		}
+		else
+		{
+			$array.Add($Item)
+		}
+		$DataGridView.DataSource = $array
+	}
+	
+	if ($AutoSizeColumns -ne 'None')
+	{
+		$DataGridView.AutoResizeColumns($AutoSizeColumns)
+	}
+	
+	$DataGridView.ResumeLayout()
+}
+
+function ConvertTo-DataTable
+{
+	<#
+		.SYNOPSIS
+			Converts objects into a DataTable.
+	
+		.DESCRIPTION
+			Converts objects into a DataTable, which are used for DataBinding.
+	
+		.PARAMETER  InputObject
+			The input to convert into a DataTable.
+	
+		.PARAMETER  Table
+			The DataTable you wish to load the input into.
+	
+		.PARAMETER RetainColumns
+			This switch tells the function to keep the DataTable's existing columns.
+		
+		.PARAMETER FilterWMIProperties
+			This switch removes WMI properties that start with an underline.
+	
+		.EXAMPLE
+			$DataTable = ConvertTo-DataTable -InputObject (Get-Process)
+	#>
+	[OutputType([System.Data.DataTable])]
+	param (
+		[ValidateNotNull()]
+		$InputObject,
+		[ValidateNotNull()]
+		[System.Data.DataTable]$Table,
+		[switch]$RetainColumns,
+		[switch]$FilterWMIProperties)
+	
+	if ($null -eq $Table)
+	{
+		$Table = New-Object System.Data.DataTable
+	}
+	
+	if ($InputObject -is [System.Data.DataTable])
+	{
+		$Table = $InputObject
+	}
+	elseif ($InputObject -is [System.Data.DataSet] -and $InputObject.Tables.Count -gt 0)
+	{
+		$Table = $InputObject.Tables[0]
+	}
+	else
+	{
+		if (-not $RetainColumns -or $Table.Columns.Count -eq 0)
+		{
+			#Clear out the Table Contents
+			$Table.Clear()
+			
+			if ($null -eq $InputObject) { return } #Empty Data
+			
+			$object = $null
+			#find the first non null value
+			foreach ($item in $InputObject)
+			{
+				if ($null -ne $item)
+				{
+					$object = $item
+					break
+				}
+			}
+			
+			if ($null -eq $object) { return } #All null then empty
+			
+			#Get all the properties in order to create the columns
+			foreach ($prop in $object.PSObject.Get_Properties())
+			{
+				if (-not $FilterWMIProperties -or -not $prop.Name.StartsWith('__')) #filter out WMI properties
+				{
+					#Get the type from the Definition string
+					$type = $null
+					
+					if ($null -ne $prop.Value)
+					{
+						try { $type = $prop.Value.GetType() }
+						catch { Out-Null }
+					}
+					
+					if ($null -ne $type) # -and [System.Type]::GetTypeCode($type) -ne 'Object')
+					{
+						[void]$table.Columns.Add($prop.Name, $type)
+					}
+					else #Type info not found
+					{
+						[void]$table.Columns.Add($prop.Name)
+					}
+				}
+			}
+			
+			if ($object -is [System.Data.DataRow])
+			{
+				foreach ($item in $InputObject)
+				{
+					$Table.Rows.Add($item)
+				}
+				return @( ,$Table)
+			}
+		}
+		else
+		{
+			$Table.Rows.Clear()
+		}
+		
+		foreach ($item in $InputObject)
+		{
+			$row = $table.NewRow()
+			
+			if ($item)
+			{
+				foreach ($prop in $item.PSObject.Get_Properties())
+				{
+					if ($table.Columns.Contains($prop.Name))
+					{
+						$row.Item($prop.Name) = $prop.Value
+					}
+				}
+			}
+			[void]$table.Rows.Add($row)
+		}
+	}
+	
+	return @( ,$Table)
+}
+#endregion
+
+$buttonScanDomain_Click={
+	#TODO: Place custom script here
+	Try
+	{
+		Import-Module ActiveDirectory
+		$Comps = Get-ADComputer -Filter *
+	}
+	Catch
+	{
+		$Comps = Get-ADComputer-LDAP
+	}
+	
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where {$_ -ne "////////" -and $_.length -ne 0}
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"	
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	$Outcome = Start-Runspace -Target $Comps -Scriptblock $Scriptblock
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps.name -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+}
+
+
+$buttonScanTarget_Click={
+	#TODO: Place custom script here
+	$Comps = ($textbox3.Text).Split(",")
+	
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	$Outcome = Start-Runspace -Target $Comps -Scriptblock $Scriptblock
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+}
+
+$buttonSaveAs_Click={
+	#TODO: Place custom script here
+	$date = Get-Date -UFormat "%d-%b-%g %H%M"
+	$savefiledialog1.FileName = "VSE SVD Scan - $($date)"
+	$savefiledialog1.DefaultExt = ".csv"
+	$savefiledialog1.CheckFileExists = $false
+	$savefiledialog1.ShowDialog()
+}
+
+
+$savefiledialog1_FileOk=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	[void][system.Windows.Forms.MessageBox]::Show[$savefiledialog1.FileName]
+	$script:results | Export-Csv -NoTypeInformation -Path $savefiledialog1.FileName 
+}
+
+$buttonTroubleshooting_Click={
+	#TODO: Place custom script here
+	Show-MissingComputers_psf
+}
+
+$textbox2_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$buttonScanList_Click={
+	#TODO: Place custom script here
+	$openfiledialog1.ShowDialog()
+	#TODO: Place custom script here
+	$Comps = Get-Content -Path "$($openfiledialog1.FileName)"
+	
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	$Outcome = Start-Runspace -Target $Comps -Scriptblock $Scriptblock
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+	
+}
+
+$openfiledialog1_FileOk=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	
+}
+$buttonSearchResults_Click={
+	#TODO: Place custom script here
+	$script:results | Out-GridView
+}
+
+$buttonPingTest_Click={
+	#TODO: Place custom script here
+	$Comps = Get-ADComputer-LDAP
+
+	$scriptblock = {
+		$ping = Test-Connection -Quiet -ComputerName $args[0] -Count 1
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name Computer -Value $args[0]
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name Online -Value $ping
+		$RemoteObj
+	}
+	
+	$Outcome = Start-Runspace -Target $Comps -Scriptblock $scriptblock
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

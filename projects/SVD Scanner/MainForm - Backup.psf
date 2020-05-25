@@ -1,0 +1,1260 @@
+﻿<File version="2.1">
+  <FileID>0876bef3-066d-43f4-9049-0d5486f4d83d</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFlxSURBVHhe7b0HVFxpfqY/x+OwXo+9a3v89/GO
+w453d2bWaTwztsf2OkywZ6Z7uid2VEutnDOKoIAACSQhoQRKIARKIAlEkhACRA5FpoAKFKHIGYrK
+RL3/77tAt1pNd6ta3Q1Veh+d56jCvd8NVdTv/W78HCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh
+hBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQ
+QgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEII
+IYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGE
+EEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBC
+CCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh
+hBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQ
+QgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEII
+IYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGE
+EEIIIYQQQgghhBBCCCGEEEIIIYQQQgghT8Wlz3/+86qvffUrKi+v7Sofn70qb+89lFJKKXUTfXz2
+qPbv91X94uc/U/3Gb/yGStR26YfzK5//ldqXXvoxoq/fRpmmFfo2E7QtA5RSSil1E3Wtg4p5JWrs
+3LUbv/97v4fpMv/BfOUr/1t1+dotVDUPIqeqGQ8rGpBFKaWUUrdS1u8ibRfK6prx2quvfXQAkJv9
+y7WtyFUbkVvVRCmllFI3NaeyEdXNA4i5eeejA8Devb6qpm4LssWIedXNlFJKKXVTc0Qtr2kZwu07
+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</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MainForm" children="Controls">
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
+    <Property name="ClientSize">814, 469</Property>
+    <Property name="Name">MainForm</Property>
+    <Property name="StartPosition">CenterScreen</Property>
+    <Property name="Text">VSE SVD Scanner v1.0</Property>
+    <Event name="Load">MainForm_Load</Event>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textbox2" children="Controls">
+      <Property name="Location">9, 17</Property>
+      <Property name="Multiline">True</Property>
+      <Property name="Name">textbox2</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">286, 234</Property>
+      <Property name="TabIndex">21</Property>
+      <Property name="TextAlign">Center</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonScanList" children="Controls">
+      <Property name="Location">9, 290</Property>
+      <Property name="Name">buttonScanList</Property>
+      <Property name="Size">109, 23</Property>
+      <Property name="TabIndex">20</Property>
+      <Property name="Text">Scan List</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonScanList_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonTroubleshooting" children="Controls">
+      <Property name="Location">307, 440</Property>
+      <Property name="Name">buttonTroubleshooting</Property>
+      <Property name="Size">140, 23</Property>
+      <Property name="TabIndex">19</Property>
+      <Property name="Text">Troubleshooting</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonTroubleshooting_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCompleted00" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 15pt</Property>
+      <Property name="ForeColor">192, 0, 0</Property>
+      <Property name="Location">301, 412</Property>
+      <Property name="Name">labelCompleted00</Property>
+      <Property name="Size">146, 25</Property>
+      <Property name="TabIndex">18</Property>
+      <Property name="Text">Completed: 0/0</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelChristianCrillEngili" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Location">9, 444</Property>
+      <Property name="Name">labelChristianCrillEngili</Property>
+      <Property name="Size">108, 13</Property>
+      <Property name="TabIndex">16</Property>
+      <Property name="Text">Christian Crill - Engility</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label2" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Location">-78, 450</Property>
+      <Property name="Name">label2</Property>
+      <Property name="Size">35, 13</Property>
+      <Property name="TabIndex">15</Property>
+      <Property name="Text">label2</Property>
+    </Object>
+    <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridview1" children="Controls">
+      <Property name="AllowUserToOrderColumns">True</Property>
+      <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+      <Property name="Location">301, 17</Property>
+      <Property name="Name">datagridview1</Property>
+      <Property name="Size">501, 389</Property>
+      <Property name="TabIndex">14</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label1" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Location">23, 13</Property>
+      <Property name="Name">label1</Property>
+      <Property name="Size">0, 13</Property>
+      <Property name="TabIndex">11</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonSaveAs" children="Controls">
+      <Property name="Location">634, 412</Property>
+      <Property name="Name">buttonSaveAs</Property>
+      <Property name="Size">168, 45</Property>
+      <Property name="TabIndex">10</Property>
+      <Property name="Text">Save As</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonSaveAs_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonScanDomain" children="Controls">
+      <Property name="Location">9, 261</Property>
+      <Property name="Name">buttonScanDomain</Property>
+      <Property name="Size">109, 23</Property>
+      <Property name="TabIndex">9</Property>
+      <Property name="Text">Scan Domain</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonScanDomain_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textbox3" children="Controls">
+      <Property name="Location">124, 321</Property>
+      <Property name="Name">textbox3</Property>
+      <Property name="Size">171, 20</Property>
+      <Property name="TabIndex">8</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelTargetOrCommaseparat" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="Location">122, 344</Property>
+      <Property name="Name">labelTargetOrCommaseparat</Property>
+      <Property name="Size">173, 13</Property>
+      <Property name="TabIndex">7</Property>
+      <Property name="Text">Target or Comma-separated targets</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonScanTarget" children="Controls">
+      <Property name="CausesValidation">False</Property>
+      <Property name="Location">9, 318</Property>
+      <Property name="Name">buttonScanTarget</Property>
+      <Property name="Size">109, 23</Property>
+      <Property name="TabIndex">6</Property>
+      <Property name="Text">Scan Target</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonScanTarget_Click</Event>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.SaveFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="savefiledialog1">
+    <Event name="FileOk">savefiledialog1_FileOk</Event>
+  </Object>
+  <Object type="System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="openfiledialog1">
+    <Property name="FileName">openfiledialog1</Property>
+    <Event name="FileOk">openfiledialog1_FileOk</Event>
+  </Object>
+  <Code><![CDATA[
+$MainForm_Load={
+	#TODO: Initialize Form Controls here
+	$nl = [Environment]::NewLine
+	$textbox2.Text = "SVD Scanner v1.0 $nl Christian Crill $nl Engility $nl $nl $nl $nl $nl Scan Domain to scan a complete Windows domain. $nl Scan List to scan a .txt file with a list of computers $nl Scan Target to scan a single target or multiple targets, separated by comma (,) $nl $nl Once complete use the Troubleshooting button to determine failure cause, and to save a list of failed machines"
+}
+$textbox3.Text = "$($Env:COMPUTERNAME)"
+
+function Test-ADAuthentication
+{
+	param (
+		$username,
+		$password
+	)
+	(New-Object System.DirectoryServices.DirectoryEntry "", $username, $password).psbase.name -ne $null
+}
+
+#region Control Helper Functions
+function Update-DataGridView
+{
+	<#
+	.SYNOPSIS
+		This functions helps you load items into a DataGridView.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the DataGridView control.
+
+	.PARAMETER  DataGridView
+		The DataGridView control you want to add items to.
+
+	.PARAMETER  Item
+		The object or objects you wish to load into the DataGridView's items collection.
+	
+	.PARAMETER  DataMember
+		Sets the name of the list or table in the data source for which the DataGridView is displaying data.
+
+	.PARAMETER AutoSizeColumns
+	    Resizes DataGridView control's columns after loading the items.
+	#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory = $true)]
+		[System.Windows.Forms.DataGridView]$DataGridView,
+		[ValidateNotNull()]
+		[Parameter(Mandatory = $true)]
+		$Item,
+		[Parameter(Mandatory = $false)]
+		[string]$DataMember,
+		[System.Windows.Forms.DataGridViewAutoSizeColumnMode]$AutoSizeColumns = 'None'
+	)
+	$DataGridView.SuspendLayout()
+	$DataGridView.DataMember = $DataMember
+	
+	if ($Item -is [System.Data.DataSet] -and $Item.Tables.Count -gt 0)
+	{
+		$DataGridView.DataSource = $Item.Tables[0]
+	}
+	elseif ($Item -is [System.ComponentModel.IListSource]`
+		-or $Item -is [System.ComponentModel.IBindingList] -or $Item -is [System.ComponentModel.IBindingListView])
+	{
+		$DataGridView.DataSource = $Item
+	}
+	else
+	{
+		$array = New-Object System.Collections.ArrayList
+		
+		if ($Item -is [System.Collections.IList])
+		{
+			$array.AddRange($Item)
+		}
+		else
+		{
+			$array.Add($Item)
+		}
+		$DataGridView.DataSource = $array
+	}
+	
+	if ($AutoSizeColumns -ne 'None')
+	{
+		$DataGridView.AutoResizeColumns($AutoSizeColumns)
+	}
+	
+	$DataGridView.ResumeLayout()
+}
+
+function ConvertTo-DataTable
+{
+	<#
+		.SYNOPSIS
+			Converts objects into a DataTable.
+	
+		.DESCRIPTION
+			Converts objects into a DataTable, which are used for DataBinding.
+	
+		.PARAMETER  InputObject
+			The input to convert into a DataTable.
+	
+		.PARAMETER  Table
+			The DataTable you wish to load the input into.
+	
+		.PARAMETER RetainColumns
+			This switch tells the function to keep the DataTable's existing columns.
+		
+		.PARAMETER FilterWMIProperties
+			This switch removes WMI properties that start with an underline.
+	
+		.EXAMPLE
+			$DataTable = ConvertTo-DataTable -InputObject (Get-Process)
+	#>
+	[OutputType([System.Data.DataTable])]
+	param (
+		[ValidateNotNull()]
+		$InputObject,
+		[ValidateNotNull()]
+		[System.Data.DataTable]$Table,
+		[switch]$RetainColumns,
+		[switch]$FilterWMIProperties)
+	
+	if ($null -eq $Table)
+	{
+		$Table = New-Object System.Data.DataTable
+	}
+	
+	if ($InputObject -is [System.Data.DataTable])
+	{
+		$Table = $InputObject
+	}
+	elseif ($InputObject -is [System.Data.DataSet] -and $InputObject.Tables.Count -gt 0)
+	{
+		$Table = $InputObject.Tables[0]
+	}
+	else
+	{
+		if (-not $RetainColumns -or $Table.Columns.Count -eq 0)
+		{
+			#Clear out the Table Contents
+			$Table.Clear()
+			
+			if ($null -eq $InputObject) { return } #Empty Data
+			
+			$object = $null
+			#find the first non null value
+			foreach ($item in $InputObject)
+			{
+				if ($null -ne $item)
+				{
+					$object = $item
+					break
+				}
+			}
+			
+			if ($null -eq $object) { return } #All null then empty
+			
+			#Get all the properties in order to create the columns
+			foreach ($prop in $object.PSObject.Get_Properties())
+			{
+				if (-not $FilterWMIProperties -or -not $prop.Name.StartsWith('__')) #filter out WMI properties
+				{
+					#Get the type from the Definition string
+					$type = $null
+					
+					if ($null -ne $prop.Value)
+					{
+						try { $type = $prop.Value.GetType() }
+						catch { Out-Null }
+					}
+					
+					if ($null -ne $type) # -and [System.Type]::GetTypeCode($type) -ne 'Object')
+					{
+						[void]$table.Columns.Add($prop.Name, $type)
+					}
+					else #Type info not found
+					{
+						[void]$table.Columns.Add($prop.Name)
+					}
+				}
+			}
+			
+			if ($object -is [System.Data.DataRow])
+			{
+				foreach ($item in $InputObject)
+				{
+					$Table.Rows.Add($item)
+				}
+				return @( ,$Table)
+			}
+		}
+		else
+		{
+			$Table.Rows.Clear()
+		}
+		
+		foreach ($item in $InputObject)
+		{
+			$row = $table.NewRow()
+			
+			if ($item)
+			{
+				foreach ($prop in $item.PSObject.Get_Properties())
+				{
+					if ($table.Columns.Contains($prop.Name))
+					{
+						$row.Item($prop.Name) = $prop.Value
+					}
+				}
+			}
+			[void]$table.Rows.Add($row)
+		}
+	}
+	
+	return @( ,$Table)
+}
+#endregion
+
+
+
+$buttonScanDomain_Click={
+	#TODO: Place custom script here
+	Try
+	{
+		Import-Module ActiveDirectory
+		$Comps = Get-ADComputer -Filter *
+	}
+	Catch
+	{
+		msg Console "Error with Active Directory Module. Reverting to LDAP"
+		$Comps = Get-ADComputer-LDAP
+	}
+	$continue = $false
+	while ($continue -eq $false)
+	{
+		$creds = Get-Credential -Message "Enter credentials with Administrative access to all machines"
+		$script:Maincreds = $creds
+		IF ($creds -eq $null)
+		{
+			msg console "Enter credentials to continue"
+			Break
+		}
+		Else
+		{
+			$continue = $true
+		}
+	}
+	
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where {$_ -ne "////////" -and $_.length -ne 0}
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"	
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	################
+	# Job Engine
+	################
+	
+	$i = 0
+	$totalJobs = $Comps.count
+	$MaxThreads = 75
+	$Timeout = "300"
+	$counter = 0
+	
+	foreach ($comp in $Comps.name)
+	{
+		# Begin
+		$i++
+		Start-Job -Name $comp -Credential $creds -ScriptBlock $Scriptblock -ArgumentList $comp, $Program
+		
+		# During
+		while ($(Get-Job -State Running).count -ge $MaxThreads)
+		{
+			Get-Job | Wait-Job -Any
+		}
+	}
+	# Final
+	while ($(Get-Job -State Running).count -ne 0)
+	{
+		$Jobcount = (Get-Job -State Running).count
+		Start-Sleep -Seconds 1
+		$counter++
+		
+		IF ($counter -gt $timeout)
+		{
+			Break
+		}
+	}
+	
+	# Gather the data
+	$Outcome = Get-Job | Receive-Job
+	# Clean up resources
+	Get-Job | Remove-Job -Force
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps.name -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+}
+
+
+$buttonScanTarget_Click={
+	#TODO: Place custom script here
+	$Comps = ($textbox3.Text).Split(",")
+	$continue = $false
+	while ($continue -eq $false)
+	{
+		$creds = Get-Credential -Message "Enter credentials with Administrative access to all machines"
+		$script:Maincreds = $creds
+		IF ($creds -eq $null)
+		{
+			msg console "Enter credentials to continue"
+			Break
+		}
+		Else
+		{
+			$continue = $true
+		}
+	}
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	
+	################
+	# Job Engine
+	################
+	
+	$i = 0
+	$totalJobs = $Comps.count
+	$MaxThreads = 75
+	$Timeout = "300"
+	$counter = 0
+	
+	foreach ($comp in $Comps)
+	{
+		# Begin
+		$i++
+		Start-Job -Name $comp -Credential $creds -ScriptBlock $Scriptblock -ArgumentList $comp, $Program
+		
+		# During
+		while ($(Get-Job -State Running).count -ge $MaxThreads)
+		{
+			Get-Job | Wait-Job -Any
+		}
+	}
+	# Final
+	while ($(Get-Job -State Running).count -ne 0)
+	{
+		$Jobcount = (Get-Job -State Running).count
+		Start-Sleep -Seconds 1
+		$counter++
+		
+		IF ($counter -gt $timeout)
+		{
+			Break
+		}
+	}
+	
+	# Gather the data
+	$Outcome = Get-Job | Receive-Job
+	# Clean up resources
+	Get-Job | Remove-Job -Force
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+}
+
+$buttonSaveAs_Click={
+	#TODO: Place custom script here
+	$date = Get-Date -UFormat "%d-%b-%g %H%M"
+	$savefiledialog1.FileName = "VSE SVD Scan - $($date)"
+	$savefiledialog1.DefaultExt = ".csv"
+	$savefiledialog1.CheckFileExists = $false
+	$savefiledialog1.ShowDialog()
+}
+
+
+$savefiledialog1_FileOk=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	[void][system.Windows.Forms.MessageBox]::Show[$savefiledialog1.FileName]
+	$script:results | Export-Csv -NoTypeInformation -Path $savefiledialog1.FileName 
+}
+
+$buttonTroubleshooting_Click={
+	#TODO: Place custom script here
+	Show-MissingComputers_psf
+}
+
+$textbox2_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$buttonScanList_Click={
+	#TODO: Place custom script here
+	$openfiledialog1.ShowDialog()
+	#TODO: Place custom script here
+	$Comps = Get-Content -Path "$($openfiledialog1.FileName)"
+	$continue = $false
+	while ($continue -eq $false)
+	{
+		$creds = Get-Credential -Message "Enter credentials with Administrative access to all machines"
+		$script:Maincreds = $creds
+		IF ($creds -eq $null)
+		{
+			msg console "Enter credentials to continue"
+			Break
+		}
+		Else
+		{
+			$continue = $true
+		}
+	}
+	$Program = "*"
+	$Scriptblock = {
+		$ErrorActionPreference = 'Stop'
+		TRY
+		{
+			IF (Test-Connection $args[0] -Quiet -Count 1 -BufferSize 16)
+			{
+				# x64 Registry Scan
+				$Ping = "Online"
+				$Success = "True"
+				$RegPath = "Software\\Wow6432Node\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				$Array = @()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# x86 Registry Scan
+				$RegPath = "Software\\Microsoft\\Windows\CurrentVersion\\Uninstall"
+				$Reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $args[0])
+				$RegKey = $Reg.OpenSubKey($RegPath)
+				$SubKeys = $RegKey.GetSubKeyNames()
+				Foreach ($Key in $SubKeys)
+				{
+					$ThisKey = $RegPath + "\\" + $Key
+					$ThisSubKey = $Reg.OpenSubKey($ThisKey)
+					$Program_Name = $ThisSubKey.GetValue("DisplayName")
+					$Display_Version = $ThisSubKey.GetValue("DisplayVersion")
+					$Publisher = $ThisSubKey.GetValue("Publisher")
+					$CombinedValue = "$($args[0])" + "//" + "$($Publisher)" + "//" + "$($($Program_Name | where { $_.length -ne 0 }))" + "//" + "$($Display_Version)"
+					$CombinedValue = $CombinedValue | Select -Unique
+					$array += $CombinedValue | where { $_ -ne "////////" -and $_.length -ne 0 }
+				}
+				# Combine Results and build output
+				$Masterarray = @()
+				$Array = $Array | select -Unique
+				Foreach ($obj in $array)
+				{
+					$RemoteObj = New-Object PSCustomObject
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value ($obj -split "//")[0]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value ($obj -split "//")[1]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value ($obj -split "//")[3]
+					$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value ($obj -split "//")[2]
+					$Masterarray += $RemoteObj
+				}
+			}
+			ELSE
+			{
+				$Ping = "Offline"
+			}
+		}
+		Catch
+		{
+			$stop = $Error.Exception.Message
+			$Success = "False"
+		}
+		# Print to console
+		$Masterarray
+	}
+	
+	
+	################
+	# Job Engine
+	################
+	
+	$i = 0
+	$totalJobs = $Comps.count
+	$MaxThreads = 75
+	$Timeout = "300"
+	$counter = 0
+	
+	foreach ($comp in $Comps)
+	{
+		# Begin
+		$i++
+		Start-Job -Name $comp -Credential $creds -ScriptBlock $Scriptblock -ArgumentList $comp, $Program
+		
+		# During
+		while ($(Get-Job -State Running).count -ge $MaxThreads)
+		{
+			Get-Job | Wait-Job -Any
+		}
+	}
+	# Final
+	while ($(Get-Job -State Running).count -ne 0)
+	{
+		$Jobcount = (Get-Job -State Running).count
+		Start-Sleep -Seconds 1
+		$counter++
+		
+		IF ($counter -gt $timeout)
+		{
+			Break
+		}
+	}
+	
+	# Gather the data
+	$Outcome = Get-Job | Receive-Job
+	# Clean up resources
+	Get-Job | Remove-Job -Force
+	
+	# Parse into final form
+	$FinalArray = @()
+	foreach ($obj in $Outcome | where { $_.Program.length -ne 0 })
+	{
+		$RemoteObj = New-Object PSCustomObject
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Computer" -Value $obj.computer
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Vendor" -Value $obj.Vendor
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Version" -Value $obj.Version
+		$RemoteObj | Add-Member -MemberType NoteProperty -Name "Program" -Value $obj.Program
+		$FinalArray += $RemoteObj
+	}
+	$Outcome = $FinalArray
+	$Outcome = $Outcome | Select-Object -Property * -ExcludeProperty RunspaceID
+	$script:results = $Outcome
+	$Datatable = ConvertTo-DataTable $Outcome
+	Update-DataGridView -DataGridView $datagridview1 $Datatable
+	
+	$CompletedScans = ($Outcome.Computer | select -Unique).count
+	$labelCompleted00.Text = "Completed: $CompletedScans / $(($Comps).count)"
+	$script:MissingComputers = Compare-Object -ReferenceObject $Comps -DifferenceObject $Outcome.Computer | where { $_.sideIndicator -eq "<=" } | select InputObject
+	
+	
+}
+
+$openfiledialog1_FileOk=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

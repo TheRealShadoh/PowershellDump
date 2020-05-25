@@ -1,0 +1,19 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.psxml;*.psf;*.pss;*.xml">
+  <Version>2.0</Version>
+  <FileID>6af98329-1007-4986-a971-e188181130d7</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders>
+    <Folder>Finding Pages</Folder>
+  </Folders>
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="0" ReferenceFunction="Show-NotReviewed_psf">Finding Pages\NotReviewed.psf</File>
+    <File Build="0" ReferenceFunction="Show-Open_psf">Finding Pages\Open.psf</File>
+    <File Build="0" ReferenceFunction="Show-NotAFinding_psf">Finding Pages\NotAFinding.psf</File>
+    <File Build="0" ReferenceFunction="Show-NotApplicable_psf">Finding Pages\NotApplicable.psf</File>
+    <File Build="0" ReferenceFunction="Show-ModifyChecklists_psf">ModifyChecklists.psf</File>
+    <File Build="0" ReferenceFunction="Show-Blanks_psf">Finding Pages\Blanks.psf</File>
+  </Files>
+</Project>
