@@ -110,7 +110,7 @@ function Get-DelimitLogger {
         $GetLast = $false
     )
     # Set log variable depending on input
-    if($input -eq 'LogFile'){ $logs = Get-Content $FilePath } #import log file
+    if($InputType -eq 'LogFile'){ $logs = Get-Content $FilePath } #import log file
     if($InternalArray){$logs = $global:runningDelimitLogger.logArray} #use global array
     if($false -ne $Array){$logs = $Array} #use passed in array
 
