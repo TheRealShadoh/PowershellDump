@@ -40,7 +40,7 @@ $master_hash.hostfile_data.zone | unique | foreach-object {
 # Add records
 
 foreach ($record in $master_hash.hostfile_data) {
-    try {s
+    try {
         Get-DnsServerResourceRecord -Name $record.shortname -ZoneName $record.zone
     }
     catch [Microsoft.Management.Infrastructure.CimException] {
